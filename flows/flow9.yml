@@ -1,0 +1,611 @@
+completion_text: "<p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family:\
+  \ Roboto, Arial, sans-serif; line-height: 2.4rem; margin-bottom: 0px; color: rgba(0,\
+  \ 0, 0, 0.87);\">Desde el principio, debes dise\xF1ar tus campa\xF1as de publicidad\
+  \ de display para que te ayuden a alcanzar tus objetivos. En esta lecci\xF3n analizaremos\
+  \ algunas de las muchas cosas que la publicidad de display puede hacer por ti, como\
+  \ por ejemplo:</p><ul style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); padding-left:\
+  \ 1.2rem; line-height: 1.625; list-style: none; color: rgba(0, 0, 0, 0.87); font-family:\
+  \ Roboto, Arial, sans-serif;\"><li style=\"-webkit-tap-highlight-color: rgba(0,\
+  \ 0, 0, 0); position: relative;\">Causar una primera impresi\xF3n positiva;</li><li\
+  \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); position: relative;\">Guiar\
+  \ a los clientes a trav\xE9s de tu embudo de ventas;</li><li style=\"-webkit-tap-highlight-color:\
+  \ rgba(0, 0, 0, 0); position: relative;\">Convertir a los visitantes interesados\
+  \ en compradores.</li></ul>"
+description: "Para crear anuncios de display eficaces, primero debes saber c\xF3mo\
+  \ las redes publicitarias conectan las empresas que quieren anunciarse con los sitios\
+  \ web que venden espacio publicitario. Despu\xE9s, podr\xE1s aprovechar la eficacia\
+  \ de las soluciones de retargeting para conseguir que tu marca sea la primera opci\xF3\
+  n de los usuarios y que los clientes potenciales avancen por el embudo de compra."
+next_flow_id: quiz12
+next_flow_title: Comprueba tu conocimiento
+pages:
+- content: |-
+    <p><br></p><p><iframe frameborder="0" src="//www.youtube.com/embed/juCqja1Fv3U" width="640" height="360" class="note-video-clip"></iframe><br></p>
+  id: intro
+  title: Inicio
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Desde el principio, debes dise\xF1ar tus campa\xF1as\
+    \ de publicidad de display para que te ayuden a alcanzar tus objetivos. En esta\
+    \ lecci\xF3n analizaremos algunas de las muchas cosas que la publicidad de display\
+    \ puede hacer por ti, como por ejemplo:<br></div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"></div><ul\
+    \ style=\"padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position:\
+    \ initial; list-style-image: initial; color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">Causar una primera impresi\xF3n positiva;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\">Guiar a los clientes a trav\xE9s de tu embudo de ventas;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\">Convertir a los visitantes interesados en compradores.</li></ul><p\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\"><iframe frameborder=\"0\" src=\"//www.youtube.com/embed/qRW6zKLPlBk\"\
+    \ width=\"640\" height=\"360\" class=\"note-video-clip\"></iframe></p><p style=\"\
+    padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align: justify;\"\
+    ><br></p><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Hasta ahora hemos visto en qu\xE9 consiste la publicidad\
+    \ de display que hay por toda la red y ya tienes una idea clara de c\xF3mo funciona,\
+    \ y puede que te est\xE1s empezando a plantear d\xF3nde quieres que aparezcan\
+    \ tus anuncios. Pero, \xBFc\xF3mo puedes encontrar sitios web que vendan espacios\
+    \ publicitarios? y \xBFc\xF3mo puedes ponerte en contacto con ellos? Aqu\xED es\
+    \ donde entran en juego las redes de publicidad de display.</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Las redes de publicidad de display son como un intermediario\
+    \ que conecta las empresas con los sitios web que tienen espacio publicitario\
+    \ a la venta.l</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Volvamos a nuestro podcast de cr\xEDticas\
+    \ de cine, y supongamos que has encontrado un sitio web espec\xEDfico donde quieres\
+    \ anunciar tu podcast. Aqu\xED tienes algunas opciones. En primer lugar, puedes\
+    \ ponerte en contacto directamente con el sitio para concretar los detalles, algo\
+    \ que es bastante frecuente. Pero con todas las webs que hay que ofrecen un espacio\
+    \ publicitario, imag\xEDnate el tiempo que tendr\xEDas que dedicar para hacer\
+    \ esto con todos y cada uno de ellos. Para eso est\xE1n las redes de publicidad\
+    \ de display, que se encargan tanto de la compra como de la venta de anuncios\
+    \ de display, conectando las empresas con los sitios web que tienen a la venta\
+    \ espacio publicitario.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Otra forma\
+    \ de verlo es como un mercado que re\xFAne empresas y sitios web, ayud\xE1ndoles\
+    \ a realizar las transacciones. Existen varias redes de este tipo, como la Red\
+    \ de Display de Google o Yahoo! y todas ofrecen prestaciones diferentes. Sin embargo,\
+    \ la mayor\xEDa tiene algunas cosas en com\xFAn:</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">En primer lugar, todas ofrecen espacio publicitario en sitios web\
+    \ a empresas que quieren anunciarse,</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">y estos mismos sitios que ofrecen estos espacios publicitarios pueden\
+    \ formar parte de estas redes y realizar acciones como establecer un importe m\xED\
+    nimo que esperan obtener por mostrar anuncios.</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Tu empresa puede pujar por aparecer en los lugares que quieras de\
+    \ todos los sitios web de esa red, y t\xFA decides cu\xE1nto quieres pagar. La\
+    \ conexi\xF3n entre compradores y vendedores se produce cada vez que se cargan\
+    \ las p\xE1ginas y se muestran los anuncios que han ganado el derecho a aparecer\
+    \ en el espacio publicitario.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Por supuesto,\
+    \ cada red tiene sus propias reglas, funciones, procesos y sistemas de puja, pero\
+    \ la idea principal es que ponen en contacto a compradores y vendedores para llenar\
+    \ los espacios publicitarios disponibles.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Las redes tambi\xE9n pueden ayudarte a llegar a p\xFAblicos espec\xED\
+    ficos a trav\xE9s de dos v\xEDas principales: los temas de las p\xE1ginas web\
+    \ donde aparecen los anuncios, y la informaci\xF3n general sobre las personas\
+    \ que ven el contenido. Aunque los criterios exactos que utilices para encontrar\
+    \ a tu p\xFAblico, o la forma en la que vayas a llevar tu campa\xF1a, pueden variar\
+    \ en funci\xF3n de la red, la segmentaci\xF3n es fundamental para hacer llegar\
+    \ los anuncios a las personas adecuadas.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Otra cosa\
+    \ que hacen las redes es administrar el dinero que se mueve en estas transacciones.\
+    \ Cada segundo de cada d\xEDa se producen compras y ventas de espacios publicitarios\
+    \ y las redes se encargan de recoger el dinero de las empresas y pagar a los sitios\
+    \ web que muestran los anuncios.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Por \xFA\
+    ltimo, y quiz\xE1s lo m\xE1s importante, las redes de publicidad de display recopilan\
+    \ y comparten informaci\xF3n con las empresas,</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">es decir, pueden decirte cu\xE1ntas veces se muestran tus anuncios,\
+    \ cu\xE1ntas veces se ha hecho clic en ellos, cu\xE1nto te han costado, d\xF3\
+    nde han aparecido y c\xF3mo var\xEDa esto en funci\xF3n del sitio web y el p\xFA\
+    blico al que te orientas. Muchas redes incluso te permiten a\xF1adir una funci\xF3\
+    n de seguimiento a tus p\xE1ginas web para que puedas ver si tus anuncios est\xE1\
+    n dando lugar a conversiones en tu sitio.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Si quieres\
+    \ usar los anuncios de display para promocionar tu negocio en Internet, las redes\
+    \ de publicidad de display son un lugar ideal para empezar. Con ellas podr\xE1\
+    s conectarte con los sitios web que venden espacio publicitario y te permitir\xE1\
+    n decidir d\xF3nde aparecer\xE1n tus anuncios y qui\xE9n los ver\xE1. Adem\xE1\
+    s se encargar\xE1n de gestionar el dinero de todas las partes implicadas, e incluso\
+    \ te proporcionar\xE1n la informaci\xF3n necesaria para que sepas c\xF3mo le est\xE1\
+    \ yendo tu campa\xF1a.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Revisa tus conocimientos</b></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Nicol\xE1s publica en su sitio web un conocido podcast de cr\xED\
+    tica cinematogr\xE1fica llamado \"Charla sobre pel\xEDculas\".</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Quiere atraer a nuevos visitantes a su sitio mediante\
+    \ la publicidad de display.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Observa estos\
+    \ tres anuncios y elige el que creas que atraer\xE1 a m\xE1s visitantes.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div class=\"separator\" style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); clear: both; text-align: center;\"><a\
+    \ href=\"https://4.bp.blogspot.com/-DVJJwIY2V6g/Wqvn2JMU7yI/AAAAAAAAgjA/v8HiMoCf_OIWn-XbJ_6o-SA57eo5vPUPwCLcBGAs/s1600/Anuncio-de-texto-e-imagen.JPG\"\
+    \ imageanchor=\"1\" style=\"color: rgb(0, 0, 204); margin-left: 1em; margin-right:\
+    \ 1em;\"><img border=\"0\" data-original-height=\"228\" data-original-width=\"\
+    611\" src=\"https://4.bp.blogspot.com/-DVJJwIY2V6g/Wqvn2JMU7yI/AAAAAAAAgjA/v8HiMoCf_OIWn-XbJ_6o-SA57eo5vPUPwCLcBGAs/s1600/Anuncio-de-texto-e-imagen.JPG\"\
+    \ style=\"border-width: 1px; border-style: solid; border-color: transparent; position:\
+    \ relative; padding: 8px; background: transparent; box-shadow: rgba(0, 0, 0, 0.2)\
+    \ 0px 0px 0px; border-radius: 0px;\"></a></div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: center;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">El anuncio de texto es bastante b\xE1sico, pero podr\xEDa contener\
+    \ informaci\xF3n para suscribirse a los podcasts de cine.</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">El anuncio de video podr\xEDa atraer a los cin\xE9filos,\
+    \ pero el video es demasiado grande y ocupa todo el espacio del anuncio.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">El anuncio con ilustraciones es m\xE1\
+    s vers\xE1til. Permitir\xEDa mostrar todos los podcasts de Nicol\xE1s a trav\xE9\
+    s de im\xE1genes muy atractivas, as\xED como algunas de las ventajas para los\
+    \ suscriptores. Tambi\xE9n podr\xEDa incluir un testimonio que explicara las ventajas.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><b>- Tarea</b></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Dedica un momento a anotar algunos\
+    \ de tus objetivos de negocio en cada uno de los tramos del embudo de ventas.\
+    \ \xBFC\xF3mo podr\xEDas alcanzar estos objetivos de negocio con campa\xF1as de\
+    \ publicidad de display que transmitan tus mensajes al p\xFAblico adecuado en\
+    \ los tramos apropiados?</div>"
+  id: page23
+  title: Aspectos clave
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Cuando crees tu sitio web, piensa en c\xF3mo combinar\
+    \ tus objetivos de negocio y lo que quieren los visitantes. En esta lecci\xF3\
+    n hablaremos sobre los siguientes temas:&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"></div><ul\
+    \ style=\"padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position:\
+    \ initial; list-style-image: initial; color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">C\xF3mo utilizar el sitio web para alcanzar\
+    \ tus objetivos;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">C\xF3mo ponerte en la piel del cliente;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\">C\xF3mo contar tu historia en Internet.</li></ul><p style=\"padding:\
+    \ 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align: justify;\"><iframe\
+    \ frameborder=\"0\" src=\"//www.youtube.com/embed/_X2mqu7Pzkc\" width=\"640\"\
+    \ height=\"360\" class=\"note-video-clip\"></iframe></p><p style=\"padding: 0.25em\
+    \ 0px; margin: 0px 0px 0.25em; border: none; text-align: justify;\"><br></p><p\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\"><span style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243);\">Ha llegado el momento de encontrar de qu\xE9 manera tu sitio web\
+    \ puede cumplir a la vez con los deseos de los visitantes y las necesidades de\
+    \ tu negocio.&nbsp;</span><br style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; text-align: start;\
+    \ background-color: rgb(243, 243, 243);\"></p><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Ahora que has empezado a dise\xF1ar tu web, unir lo que t\xFA quieres\
+    \ que hagan tus visitas en tu sitio web con lo que ellos quieren hacer es la clave\
+    \ del \xE9xito.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Piensa en\
+    \ la \xFAltima vez que accediste a una web de una tienda en busca de un n\xFA\
+    mero de tel\xE9fono... \xBFPudiste localizar el n\xFAmero f\xE1cilmente?</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Aseg\xFArate de poner tu n\xFAmero\
+    \ de tel\xE9fono en un lugar visible o quiz\xE1s incluso resaltarlo en todas las\
+    \ p\xE1ginas de tu sitio web. Incluso podr\xEDas a\xF1adir alg\xFAn texto que\
+    \ anime a las visitas a \"llamar ahora\", y hacer que tu p\xE1gina de Contacto\
+    \ sea f\xE1cil de encontrar.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Tambi\xE9\
+    n es una buena idea permitir a los usuarios de m\xF3viles que acceden a tu web\
+    \ que puedan llamarte con solo un clic.&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Bien, volvamos\
+    \ a tu panader\xEDa de barrio. Imaginemos que quieres que m\xE1s gente de la zona\
+    \ visite la tienda, y que tus clientes desean saber c\xF3mo localizarte cuando\
+    \ quieran comprar el pan del d\xEDa. Incluir mapas en tu sitio web junto con indicaciones\
+    \ espec\xEDficas puede ser beneficioso para ambos.</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Entonces,\
+    \ \xBFqu\xE9 otras cosas podr\xEDan buscar los usuarios en tu web? \xBFPrecios?\
+    \ \xBFOfertas especiales?&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Asegur\xE1\
+    ndote de que toda esta informaci\xF3n sea f\xE1cilmente accesible, alinear\xE1\
+    s tus objetivos comerciales con las necesidades de las visitas.&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Hablemos ahora del contenido, o de\
+    \ las palabras que incluyes en tus p\xE1ginas.&nbsp;</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Las palabras que utilices deber\xEDan ser mucho m\xE1\
+    s que una descripci\xF3n de lo que haces. En la mayor\xEDa de los casos, es preferible\
+    \ no utilizar tecnicismos ni presumir de lo bueno que eres.</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">En su lugar puedes explicar c\xF3mo puedes satisfacer\
+    \ las necesidades del cliente o resolver un problema que tenga.&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Para lograrlo, escribe en un tono\
+    \ que transmita confianza, pero que no sea intimidante, y salvo que tu audiencia\
+    \ est\xE9 formada por astrof\xEDsicos, explica los conceptos en un lenguaje claro\
+    \ y sencillo.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Cuenta una\
+    \ historia que ayude a conectar con quien visita tu web. Contenidos como testimonios\
+    \ o videos en los que aparezcan clientes satisfechos, o el hecho de permitir a\
+    \ las visitas escribir comentarios sobre tus productos y servicios en tu sitio\
+    \ web, puede ser de gran ayuda.&nbsp;</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Recuerda que cada segundo cuenta: los usuarios no pasar\xE1n mucho\
+    \ tiempo en tu web. Es por esto que las im\xE1genes, los encabezados y una navegaci\xF3\
+    n clara pueden ayudarles a encontrar exactamente lo que buscan antes de pasar\
+    \ a buscar en otras webs.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Dise\xF1\
+    a tu sitio web teniendo presentes tus objetivos empresariales y, tambi\xE9n, los\
+    \ de tus visitas, as\xED tendr\xE1s muchas m\xE1s posibilidades de \xE9xito.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; text-align: justify;\"><div style=\"background-color:\
+    \ rgb(243, 243, 243); color: rgb(10, 10, 10);\"><b>- Tarea</b></div><div style=\"\
+    background-color: rgb(243, 243, 243); color: rgb(10, 10, 10);\"><br></div><div\
+    \ style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Crea una lista\
+    \ de algunos de tus mejores clientes, a los que podr\xEDas llamar para que compartan\
+    \ su testimonio o que relaten la forma en que los has ayudado. A lo mejor podr\xED\
+    as incluir una secci\xF3n de rese\xF1as o testimonios en tu sitio web.</span></div></div>"
+  id: page24
+  title: Sitios web y objetivos de negocio
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Los buscadores examinan todas las p\xE1ginas web de Internet,\
+    \ las catalogan y establecen un orden l\xF3gico cuando realizas una b\xFAsqueda,\
+    \ pero el hecho de entender c\xF3mo funcionan puede ayudar a tu negocio. En este\
+    \ video veremos:&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"></div><ul style=\"padding: 0px 2.5em;\
+    \ margin: 0.5em 0px; line-height: 1.4; list-style-position: initial; list-style-image:\
+    \ initial; color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"><li style=\"\
+    padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\">C\xF3mo los buscadores\
+    \ encuentran las p\xE1ginas web;</li><li style=\"padding: 0.25em 0px; margin:\
+    \ 0px 0px 0.25em; border: none;\">Qu\xE9 hacen con las p\xE1ginas web que encuentran;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\">C\xF3mo\
+    \ deciden cu\xE1les mostrar en las p\xE1ginas de resultados de b\xFAsqueda.</li></ul><p\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\"><iframe\
+    \ frameborder=\"0\" src=\"//www.youtube.com/embed/HDC6kT61zQA\" width=\"640\"\
+    \ height=\"360\" class=\"note-video-clip\"></iframe></p><p style=\"padding: 0.25em\
+    \ 0px; margin: 0px 0px 0.25em; border: none;\"><br></p><p style=\"padding: 0.25em\
+    \ 0px; margin: 0px 0px 0.25em; border: none;\"><br></p><p style=\"padding: 0.25em\
+    \ 0px; margin: 0px 0px 0.25em; border: none;\"><span style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Te ense\xF1\
+    aremos c\xF3mo los buscadores encuentran las p\xE1ginas web, qu\xE9 hacen con\
+    \ las p\xE1ginas que encuentran y c\xF3mo deciden qu\xE9 resultados se muestran.</span><br\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"></p><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Probablemente en alg\xFAn momento te detuviste a pensar: \xBFc\xF3\
+    mo lo hacen?, \xBFc\xF3mo han podido rastrear todo Internet tan r\xE1pido y elegir\
+    \ los resultados que salen en esta p\xE1gina?&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Todos los buscadores utilizan su propio programa de software, pero\
+    \ en realidad funcionan de un modo muy parecido. Todos llevan a cabo tres tareas:</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">- Primero examinan el contenido que conocen y al que tienen acceso,\
+    \ lo que se conoce como \"crawling\" o \"rastreo\".</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">- Despu\xE9\
+    s, ordenan el contenido por categor\xEDas, en otras palabras, el proceso de \"\
+    indexaci\xF3n\".</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">- Y, por \xFAltimo, deciden qu\xE9\
+    \ contenido es el m\xE1s valioso para los usuarios, el llamado \"ranking\".&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Veamos estos procesos en profundidad.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Los buscadores rastrean Internet\
+    \ para encontrar contenidos como p\xE1ginas web, im\xE1genes o videos, y para\
+    \ hacerlo cada buscador utiliza sus propios programas inform\xE1ticos llamados\
+    \ \"bots\" (de robot), \"crawlers\" (tambi\xE9n llamados \"rastreadores\") o \"\
+    ara\xF1as\" para inspeccionar todas las p\xE1ginas.&nbsp;</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Los bots saltan de una p\xE1gina a otra siguiendo los\
+    \ enlaces. Su \xFAnico prop\xF3sito es visitar una y otra vez las p\xE1ginas para\
+    \ buscar nuevos enlaces y nuevo contenido que incluir en el \xEDndice.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">La segunda parte del proceso se llama \"indexaci\xF3n\". El \xED\
+    ndice es una lista gigantesca que contiene todas las p\xE1ginas web que han encontrado\
+    \ los bots. Sin embargo, no todo lo que los bots encuentran llega al \xEDndice\
+    \ del buscador.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Por ejemplo,\
+    \ los buscadores pueden encontrar numerosas copias del mismo contenido en diferentes\
+    \ sitios web.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">\xBFC\xF3\
+    mo es posible? Imagina que ahora alguien busca una cafetera llamada El Rey de\
+    \ los Caf\xE9s 2000. Puede que seas consciente de que este producto tiene la misma\
+    \ descripci\xF3n literal en los sitios web de los principales distribuidores.\
+    \ Seguramente, esto se deba a que utilizan la descripci\xF3n que les proporcion\xF3\
+    \ el fabricante. Al llegar a este punto, el buscador debe tomar una decisi\xF3\
+    n: \xBFqu\xE9 versi\xF3n incluye en el \xEDndice? Los cientos de duplicados resultan\
+    \ superfluos y repetitivos as\xED que es poco probable que se a\xF1adan todas\
+    \ esas p\xE1ginas.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><div>Por\
+    \ lo tanto, si tu tienes un sitio web en el que vendes cafeteras, tendr\xE1s m\xE1\
+    s visibilidad si redactas tu propia descripci\xF3n de la cafetera El Rey de los\
+    \ Caf\xE9s 2000.&nbsp;</div><div>Hace sentido \xBFno crees?</div><div>Hasta ahora\
+    \ hemos visto c\xF3mo funcionan los procesos de rastreo e indexaci\xF3n, as\xED\
+    \ que solo nos queda ver c\xF3mo funciona el ranking. Cuando haces una b\xFAsqueda,\
+    \ el buscador compara las palabras y frases que has introducido con su \xEDndice,\
+    \ buscando posibles coincidencias.&nbsp;</div><div><br></div><div>El modo en el\
+    \ que los buscadores realizan el ranking de las p\xE1ginas es un secreto muy bien\
+    \ guardado: es su f\xF3rmula m\xE1gica. Los buscadores utilizan cientos de m\xE9\
+    todos para determinarlo, como por ejemplo, las palabras que aparecen en la p\xE1\
+    gina, el n\xFAmero de enlaces que apuntan a otras p\xE1ginas o si el contenido\
+    \ es actual.</div><div><br></div><div>Independientemente de la f\xF3rmula que\
+    \ utilicen para determinar el ranking, el objetivo es siempre el mismo: conectar\
+    \ a la persona con el contenido que busca.</div><div><br></div><div>Imaginemos\
+    \ que has le\xEDdo algo acerca de un caf\xE9 de origen colombiano que se llama\
+    \ \"Huila\" y te gustar\xEDa probarlo. Si buscas \u201Ccaf\xE9 huila en los alrededores\u201D\
+    , el buscador te mostrar\xE1 las cafeter\xEDas m\xE1s cercanas donde sirven esta\
+    \ variedad, ya que tu b\xFAsqueda indicaba tu ubicaci\xF3n; incluso podr\xE1s\
+    \ ver un mapa que te ayude a encontrarlas.&nbsp;</div><div>\xBFCu\xE1l es la conclusi\xF3\
+    n que sacamos de todo esto? Los buscadores est\xE1n en continuo funcionamiento\
+    \ explorando la web en busca de contenido, organiz\xE1ndolo y, finalmente, mostrando\
+    \ los resultados m\xE1s relevantes para los usuarios. Entender este proceso te\
+    \ permitir\xE1 tener un sitio web que funcione mucho mejor.</div><div><br></div><div><div><b>&nbsp;Revisa\
+    \ tus conocimientos</b></div><div><br></div><div>La cafeter\xEDa de Sergio es\
+    \ especial: tiene una terraza en la azotea y una zona con una biblioteca donde\
+    \ los clientes pueden leer mientras degustan su bebida preferida. Tambi\xE9n vende\
+    \ caf\xE9 en grano importado de Per\xFA.</div><div>\xBFA qu\xE9 t\xE9cnicas podr\xED\
+    a recurrir para que el sitio web fuera m\xE1s relevante para los usuarios interesados?&nbsp;</div><div><br></div><div><span\
+    \ style=\"color: red;\">**Destacar los aspectos del establecimiento que son \xFA\
+    nicos</span></div><div><span style=\"color: red;\">**Escribir un blog sobre los\
+    \ beneficios del caf\xE9 peruano que vende</span></div><div><span style=\"color:\
+    \ red;\">**Asegurarse de que la cafeter\xEDa aparezca en Google Maps</span></div><div>Pegar\
+    \ la descripci\xF3n del caf\xE9 peruano que encontr\xF3 en otro sitio web</div><div><span\
+    \ style=\"color: red;\">**Conseguir que otros amantes del caf\xE9 escriban rese\xF1\
+    as sobre su establecimiento o sitio web</span></div><div><br></div><div><br></div><div><b>-\
+    \ Tarea</b></div><div><br></div><div>Haz una b\xFAsqueda de algunos t\xE9rminos\
+    \ que te interesen o de los productos y servicios que ofreces. \xBFQu\xE9 tipo\
+    \ de resultados obtienes en las p\xE1ginas de resultados de b\xFAsqueda? \xBF\
+    Qu\xE9 caracter\xEDsticas de las p\xE1ginas web que encabezan la clasificaci\xF3\
+    n podr\xEDan explicar que aparezcan en las primeras posiciones? Haz una lista\
+    \ de los contenidos que podr\xEDas a\xF1adir a tu sitio web y tener as\xED m\xE1\
+    s oportunidades de ser indexado y encabezar la clasificaci\xF3n de las p\xE1ginas\
+    \ de resultados.</div></div></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div>"
+  id: page25
+  title: El funcionamiento de los buscadores
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Por tanto, cuanta m\xE1s informaci\xF3n tenga tu sitio\
+    \ web, mejor. En este video aprender\xE1s:&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><ul style=\"\
+    padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position:\
+    \ initial; list-style-image: initial;\"><li style=\"padding: 0.25em 0px; margin:\
+    \ 0px 0px 0.25em; border: none;\">En qu\xE9 consiste Google Search Console y c\xF3\
+    mo puede ayudar a tu negocio;</li><li style=\"padding: 0.25em 0px; margin: 0px\
+    \ 0px 0.25em; border: none;\">Algunas de sus caracter\xEDsticas m\xE1s \xFAtiles;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\">C\xF3mo\
+    \ instalarla.</li></ul><p style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none;\"><iframe frameborder=\"0\" src=\"//www.youtube.com/embed/y28eeqsrF_U\"\
+    \ width=\"640\" height=\"360\" class=\"note-video-clip\"></iframe></p><p style=\"\
+    padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\"><br></p><div>\xBF\
+    Necesitas una buena herramienta con la que conseguir m\xE1s tr\xE1fico para tu\
+    \ sitio web? Entonces no te pierdas este video donde te contamos todo acerca de\
+    \ un servicio gratuito que ofrece Google, el Search Console. Te ense\xF1aremos\
+    \ de qu\xE9 forma te puede servir y c\xF3mo configurarlo.&nbsp;</div><div>\xBF\
+    Qu\xE9 es exactamente Search Console de Google? Es un servicio que te proporciona\
+    \ informaci\xF3n sobre el rendimiento de tu sitio web en los resultados de b\xFA\
+    squeda de Google.</div><div><br></div><div>Este servicio cuenta con dos funciones\
+    \ principales: Por un lado, hace un seguimiento del rendimiento de tus resultados\
+    \ de b\xFAsqueda de Google y, por otro lado, te muestra c\xF3mo Google ve o percibe\
+    \ tu sitio web.&nbsp;</div><div><br></div><div>Supongamos que tienes una cafeter\xED\
+    a y que necesitas actualizar un poco tu sitio web. Veamos algunas opciones en\
+    \ las que Search Console puede serte de utilidad.</div><div><br></div><div>La\
+    \ primera opci\xF3n se trata de los informes de \"An\xE1lisis de b\xFAsqueda\"\
+    : estos informes te pueden ayudar a encontrar la respuesta a numerosas preguntas\
+    \ relevantes como, por ejemplo, qu\xE9 b\xFAsquedas realizan los usuarios para\
+    \ llegar a tu sitio web como.</div><div><br></div><div>Cafeter\xEDa C\xF3rdoba,\
+    \ cafeter\xEDa alrededores, reposter\xEDa cerca de C\xF3rdoba, o cafeter\xEDa\
+    \ comercio justo alrededores.</div><div><br></div><div>Si despu\xE9s de revisar\
+    \ el informe, adviertes que hay palabras o frases irrelevantes y sin relaci\xF3\
+    n con tu negocio, entonces deber\xE1s revisar los textos de tu web.</div><div><br></div><div>Otro\
+    \ de los aspectos que puedes ver en estos informes es el n\xFAmero de clics: saber\
+    \ con qu\xE9 frecuencia sale tu sitio web en los resultados y no recibe clics\
+    \ te puede indicar si tu contenido se acerca o no a lo que buscan los usuarios.&nbsp;</div><div><br></div><div>El\
+    \ informe \"Enlaces a tu sitio\" te muestra qu\xE9 sitios web tienen enlaces a\
+    \ tu sitio. Por ejemplo, un sitio web sobre restaurantes en C\xF3rdoba puede dirigir\
+    \ al sitio de tu cafeter\xEDa.&nbsp;</div><div><br></div><div>Cada vez hay m\xE1\
+    s usuarios que utilizan sus dispositivos m\xF3viles para acceder a Internet, por\
+    \ ello, en Search Console de Google tambi\xE9n deber\xEDas comprobar el \"Informe\
+    \ de usabilidad m\xF3vil\". Este informe te indica qu\xE9 p\xE1ginas de tu sitio\
+    \ no funcionan bien en los tel\xE9fonos m\xF3viles para que puedas tomar las medidas\
+    \ adecuadas y mejorar el rendimiento de tu sitio.</div><div>Adem\xE1s, hay otros\
+    \ dos informes de gran utilidad en Search Console que deber\xEDas conocer: los\
+    \ informes de rastreo y los informes de estado de indexaci\xF3n.</div><div><br></div><div>Los\
+    \ informes de rastreo te permiten comprobar si Google puede ver tus p\xE1ginas\
+    \ web. Esto es importante, ya que si Google no puede acceder a tus p\xE1ginas\
+    \ web, tu contenido no se podr\xE1 incluir en los resultados de b\xFAsqueda de\
+    \ Google.&nbsp;</div><div><br></div><div>Los informes de indexaci\xF3n de Google,\
+    \ por su parte, muestran qu\xE9 informaci\xF3n tiene registrada Google sobre tu\
+    \ sitio y te confirma si tus p\xE1ginas son accesibles.</div><div><br></div><div>Utilizar\
+    \ Search Console es muy sencillo, empieza por visitar www.google.com/webmasters.</div><div><br></div><div>Una\
+    \ vez que inicies sesi\xF3n, a\xF1ade tu sitio web y completa la verificaci\xF3\
+    n con la que se comprobar\xE1 si eres el due\xF1o de la web.</div><div><br></div><div>Una\
+    \ vez realizada, Search Console puede generar informes sobre tu sitio web completamente\
+    \ gratis, aunque deber\xE1s esperar unos d\xEDas hasta ver informaci\xF3n que\
+    \ te resulte \xFAtil, ya que la aplicaci\xF3n debe recopilar y procesar los datos.&nbsp;</div><div>Ahora\
+    \ que tu sitio web est\xE1 configurado en Search Console de Google, puedes utilizar\
+    \ los informes para saber c\xF3mo mejorar tu presencia en Google. Gracias a estos\
+    \ informes, podr\xE1s realizar cambios en tu sitio web para que Google comprenda\
+    \ mejor de qu\xE9 trata y, por consiguiente, mejorar su rendimiento en Google.</div><div><br></div><div><b><br></b></div><div><b>-\
+    \ Revisa tus conocimientos</b></div><div><br></div><div>El sitio web de Sergio\
+    \ lleva tiempo en marcha, pero no sabe muy bien si ha servido para atraer a nuevos\
+    \ clientes.&nbsp;</div><div>\xBFC\xF3mo puede ayudarle Google Search Console?</div><div><br></div><div><span\
+    \ style=\"color: red;\">**Indic\xE1ndole si est\xE1 utilizando las palabras clave\
+    \ correctas para el contenido de su sitio web</span></div><div><span style=\"\
+    color: red;\">**Recomend\xE1ndole t\xEDtulos m\xE1s adecuados para sus p\xE1ginas</span></div><div><span\
+    \ style=\"color: red;\">**Recomend\xE1ndole contenido que pueda atraer m\xE1s\
+    \ tr\xE1fico al sitio web</span></div><div><br></div><div>Con Google Search Console,\
+    \ concretamente con las anal\xEDticas de b\xFAsqueda, Sergio puede saber si las\
+    \ palabras clave de su sitio web le ayudan a aparecer en los resultados de los\
+    \ tipos de b\xFAsquedas que realizan sus clientes. Tambi\xE9n podr\xE1 saber si\
+    \ esta visibilidad se traduce en visitas a su sitio web por parte de clientes\
+    \ potenciales que le conocen a trav\xE9s de Internet.</div><div>Google Search\
+    \ Console puede recomendarle t\xEDtulos de p\xE1gina m\xE1s adecuados, pero no\
+    \ contenido m\xE1s eficaz para el sitio. Tampoco puede indicarle el tipo de personas\
+    \ que suele buscar establecimientos como el suyo.</div><div>Google Search Console\
+    \ ofrece a Sergio informaci\xF3n para que la revise y, en ocasiones, como en el\
+    \ caso de la usabilidad en celulares, proporciona recomendaciones concretas que\
+    \ le permitir\xE1n corregir problemas.&nbsp;</div><div><br></div><div><br></div><div><b>-\
+    \ Tarea</b></div><div><br></div><div>Visita Google Webmasters e instala +Link\
+    \ Google Webmasters:&nbsp;<a href=\"http://www.google.com/webmasters/?&amp;utm_campaign=growth-engine\"\
+    \ rel=\"nofollow\" target=\"_blank\" style=\"color: rgb(0, 0, 204);\">http://www.google.com/webmasters/?&amp;utm_campaign=growth-engine</a>&nbsp;e\
+    \ instala Google Search Console para tu sitio web. Si ya lo has hecho, examina\
+    \ la informaci\xF3n obtenida para conocer el estado y la visibilidad de tu sitio\
+    \ web en la B\xFAsqueda de Google.</div><div><br></div></div>"
+  id: page26
+  title: Google Search Console
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: Haz que la publicidad de display te ayude a alcanzar tus objetivos
