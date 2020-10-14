@@ -1,0 +1,92 @@
+completion_text: |-
+  <p>Muchas gracias por haber completado tu Quiz</p>
+description: "Nicol\xE1s recibe muchas visitas al sitio web de su podcast, pero pocos\
+  \ suscriptores."
+groups:
+- id: intro
+  pages:
+  - content: "<p>Cuenta con presupuesto para dise\xF1ar tres anuncios de display que\
+      \ animen a los usuarios a volver al sitio y a suscribirse.</p><p><br></p><p>Ha\
+      \ creado una lista de los grupos de audiencia objetivo a los que le gustar\xED\
+      a llegar con sus anuncios. Ay\xFAdale a tachar los dos grupos objetivo menos\
+      \ \xFAtiles.</p> "
+    id: welcome
+    title: Haz que la publicidad de display te ayude a alcanzar tus objetivos
+    type: Page
+- id: quiz_start
+  pages:
+  - choices:
+    - Personas que hacen comentarios en foros de cine
+    - ~CORRECT~ Personas que visitan el sitio web
+    - "Personas que buscan podcasts relacionados con la televisi\xF3n"
+    - "~CORRECT~ Personas que han empezado el proceso de suscripci\xF3n pero no lo\
+      \ han terminado"
+    - "~CORRECT~ Personas que descargan su cat\xE1logo electr\xF3nico"
+    credit_mode: exact
+    id: quizquestion14
+    prompt: ''
+    shuffle: false
+    title: "Nicol\xE1s recibe muchas visitas al sitio web de su podcast, pero pocos\
+      \ suscriptores.  Cuenta con presupuesto para dise\xF1ar tres anuncios de display\
+      \ que animen a los usuarios a volver al sitio y a suscribirse.  Ha creado una\
+      \ lista de los grupos de audiencia o"
+    type: MultipleChoiceQuestion
+    value: 34.0
+  - choices:
+    - "Preparaci\xF3n del presupuesto"
+    - ~CORRECT~ Desarrollo de un plan
+    - "Optimizaci\xF3n del sitio web"
+    - "Definici\xF3n de una base de clientes"
+    id: quizquestion15
+    prompt: ''
+    title: "\xBFCu\xE1l es el desaf\xEDo m\xE1s grande al que se enfrentan la mayor\xED\
+      a de las empresas para estar online?"
+    type: ChoiceQuestion
+    value: 33.0
+  - choices:
+    - Los ven todas las personas
+    - "Tienen una tasa de clics m\xE1s alta"
+    - ~CORRECT~ Pueden aparecer en muchos formatos diferentes
+    - El coste de configurarlos es relativamente bajo
+    id: quizquestion16
+    prompt: ''
+    title: "Cuando pretendes anunciar una nueva empresa online, \xBFcu\xE1l es uno\
+      \ de los principales beneficios de los anuncios gr\xE1ficos?"
+    type: ChoiceQuestion
+    value: 20.0
+  - choices:
+    - "La administraci\xF3n de tu sitio web"
+    - ~CORRECT~ El alojamiento de tu sitio web
+    - "La promoci\xF3n de tu sitio web"
+    - "La protecci\xF3n de tu sitio web"
+    id: quizquestion17
+    prompt: ''
+    title: "Cuando est\xE1s construyendo un sitio web para tu empresa, \xBFcu\xE1\
+      l es la finalidad de un servidor?"
+    type: ChoiceQuestion
+    value: 13.0
+  shuffle: false
+rules:
+  access:
+  - permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz12
+  grading:
+  - credit_percent: 100
+  start:
+  - if_before: 2020-12-29 21:50:36+00:00
+    if_has_fewer_sessions_than: 1
+    if_has_role:
+    - student
+    - ta
+    - instructor
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - may_list_existing_sessions: true
+    may_start_new_session: false
+title: Haz que la publicidad de display te ayude a alcanzar tus objetivos
