@@ -1,0 +1,942 @@
+completion_text: "<p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family:\
+  \ Roboto, Arial, sans-serif; line-height: 2.4rem; margin-bottom: 0px; color: rgba(0,\
+  \ 0, 0, 0.87);\">El retargeting te permite anunciarte entre grupos de visitantes\
+  \ de tu sitio web en funci\xF3n de lo que hicieron cuando visitaron el sitio. En\
+  \ esta lecci\xF3n abordaremos los conceptos b\xE1sicos:</p><p style=\"-webkit-tap-highlight-color:\
+  \ rgba(0, 0, 0, 0); font-family: Roboto, Arial, sans-serif; line-height: 2.4rem;\
+  \ margin-bottom: 0px; color: rgba(0, 0, 0, 0.87);\">Realizar un seguimiento de lo\
+  \ que hacen los visitantes en tu sitio web;</p><p style=\"-webkit-tap-highlight-color:\
+  \ rgba(0, 0, 0, 0); font-family: Roboto, Arial, sans-serif; line-height: 2.4rem;\
+  \ margin-bottom: 0px; color: rgba(0, 0, 0, 0.87);\">Utilizar esta informaci\xF3\
+  n para identificar a los visitantes a los que quieres orientarte;</p><p style=\"\
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: Roboto, Arial, sans-serif;\
+  \ line-height: 2.4rem; margin-bottom: 0px; color: rgba(0, 0, 0, 0.87);\">Crear anuncios\
+  \ espec\xEDficos para estos usuarios.</p>"
+description: "\xA1Hola! Una de las herramientas m\xE1s potentes de la publicidad de\
+  \ display es lo que se conoce como \"retargeting\". Esta t\xE9cnica permite usar\
+  \ informaci\xF3n sobre el comportamiento de los usuarios en tu sitio web para orientarte\
+  \ a ellos con un mensaje publicitario espec\xEDfico, y que podr\xE1n ver incluso\
+  \ una vez que hayan salido de tu web. En este v\xEDdeo te ense\xF1amos c\xF3mo funciona\
+  \ y as\xED sabr\xE1s si te puede ser \xFAtil en tu estrategia digital."
+next_flow_id: ''
+next_flow_title: ''
+pages:
+- content: "<div class=\"video__transcript__text\" style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: Roboto, Arial, sans-serif; padding: 0px 4.2rem;\
+    \ margin: 0px; color: rgba(0, 0, 0, 0.87);\"><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >Pablo ya utiliza el retargeting, tambi\xE9n conocido como remarketing, en las\
+    \ campa\xF1as online de Planeta Huerto. Veamos qu\xE9 nos cuenta.</p><p style=\"\
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem;\"><iframe frameborder=\"0\" src=\"//www.youtube.com/embed/4rsi2ikDSzA\"\
+    \ width=\"640\" height=\"360\" class=\"note-video-clip\" style=\"font-size: 1.6rem;\"\
+    ></iframe><br></p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">[El propietario de un\
+    \ peque\xF1o negocio real habla sobre las ventajas que le ha aportado el \"retargeting\"\
+    \ de clientes.]</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">Para ilustrar este tema,\
+    \ retomaremos nuestro ejemplo de un podcast de cr\xEDticas de cine. Un cliente\
+    \ potencial termina en tu sitio web despu\xE9s de buscar algo nuevo que escuchar\
+    \ por las ma\xF1anas de camino al trabajo. Tu web le parece interesante y empieza\
+    \ a rellenar el formulario de suscripci\xF3n, pero a mitad del proceso lo interrumpe\
+    \ repentinamente una llamada telef\xF3nica, as\xED que sale del sitio antes de\
+    \ completar la suscripci\xF3n.</p><p style=\"-webkit-tap-highlight-color: rgba(0,\
+    \ 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">Aunque\
+    \ probablemente est\xE9s contento de que haya visitado tu web, ser\xEDas mucho\
+    \ m\xE1s feliz si hubiera completado su suscripci\xF3n. Adem\xE1s, puede que se\
+    \ acabe olvidando de tu podcast o que encuentre otra cosa a la que suscribirse.</p><p\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem;\">Aqu\xED es donde el \"retargeting\" entra en\
+    \ acci\xF3n, y tu primer paso en esta nueva segmentaci\xF3n es definir tu p\xFA\
+    blico objetivo.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">Existen muchas soluciones\
+    \ de \"retargeting\" disponibles y muchas redes de publicidad de display tambi\xE9\
+    n ofrecen este servicio. Sin embargo, sea cual sea la que uses, lo primero que\
+    \ debes hacer es definir qui\xE9n ser\xE1 tu p\xFAblico.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >Siguiendo con nuestro ejemplo, puedes definir como tu p\xFAblico objetivo a personas\
+    \ que empezaron a rellenar el formulario de suscripci\xF3n, pero que no lo completaron.</p><p\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem;\">Tu servicio de \"retargeting\" puede pedirte\
+    \ que a\xF1adas algo de c\xF3digo a tus p\xE1ginas web o que lo integres en tu\
+    \ herramienta de anal\xEDtica web para poder recopilar una lista de visitas a\
+    \ tu sitio que cumplan estos criterios.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >Esta no ser\xE1 una lista de personas individuales con informaci\xF3n personal,\
+    \ como nombres o direcciones de correo electr\xF3nico, sino que, en su lugar,\
+    \ se crear\xE1 una lista an\xF3nima (tambi\xE9n llamada \"lista de retargeting\"\
+    ) de usuarios que cumplen tus criterios y a los que se les puede aplicar la nueva\
+    \ segmentaci\xF3n con tus anuncios.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >Ahora que ya has definido un p\xFAblico, cualquier visitante que no termine de\
+    \ suscribirse despu\xE9s de haber iniciado el proceso se a\xF1adir\xE1 autom\xE1\
+    ticamente a la lista. Ahora llega el momento de crear anuncios espec\xEDficos\
+    \ para ellos, y pueden ser muy concretos dado que sabes que las personas que los\
+    \ ver\xE1n ya han empezado a suscribirse en tu web. As\xED que puedes incluir\
+    \ mensajes como ofertas especiales para contenidos extra, un regalo de cortes\xED\
+    a por registrarse o alg\xFAn otro incentivo que les anime a volver y terminar\
+    \ la suscripci\xF3n.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0,\
+    \ 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">Si has\
+    \ configurado una campa\xF1a para mostrar anuncios a personas de la lista de \"\
+    retargeting\", ahora puedes llegar a clientes potenciales incluso despu\xE9s de\
+    \ que hayan salido de tu p\xE1gina.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >De este modo, puede que vean uno de tus anuncios m\xE1s tarde, hagan clic en\
+    \ \xE9l y completen la inscripci\xF3n.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\"\
+    >Una vez que se hayan suscrito, ya no necesitas mostrarles anuncios con incentivos\
+    \ para que se registren, sino que puedes crear una nueva lista de \"retargeting\"\
+    \ para los suscriptores existentes. Luego puedes dirigirte a ellos con una campa\xF1\
+    a publicitaria diferente, quiz\xE1s para convencerles de que vuelvan y consulten\
+    \ los otros podcasts que ofreces.</p><p style=\"-webkit-tap-highlight-color: rgba(0,\
+    \ 0, 0, 0); font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\">Pues\
+    \ as\xED funciona el \"retargeting\": realiza un seguimiento de la audiencia en\
+    \ funci\xF3n del comportamiento de las personas en tu sitio web, lo cual permite\
+    \ a los anunciantes dise\xF1ar anuncios espec\xEDficos para ellas en funci\xF3\
+    n de sus acciones.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\
+    \ font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 0px;\">Esperamos que\
+    \ esto te ayude a entender c\xF3mo puedes usar el \"retargeting\" para volver\
+    \ a atraer a visitantes a tu negocio, convertirlos en clientes y hacer que regresen\
+    \ de manera regular.</p></div>"
+  id: intro
+  title: Inicio
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Bienvenido a nuestro tutorial sobre la optimizaci\xF3\
+    n en buscadores, tambi\xE9n conocido como SEO (en ingl\xE9s, Search Engine Optimization).&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">En este video, explicaremos qu\xE9\
+    \ es el SEO , c\xF3mo los buscadores perciben tu sitio web y qu\xE9 es lo que\
+    \ m\xE1s valoran.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">La optimizaci\xF3\
+    n en motores de b\xFAsqueda (SEO) puede parecer complicada, pero una vez que comprendas\
+    \ c\xF3mo funcionan estos motores, habr\xE1s dado los primeros pasos para dominar\
+    \ el proceso de SEO. Aprendas c\xF3mo crear un plan de SEO adaptable, c\xF3mo\
+    \ identificar las palabras clave m\xE1s eficaces y qu\xE9 herramientas pueden\
+    \ ayudarte a medir los datos importantes.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Ver la lecci\xF3n</b></div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>Aspectos clave</b></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Saber c\xF3\
+    mo funcionan los buscadores puede ayudar a mejorar la presencia de tu negocio\
+    \ en Internet. En este video se explica:</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"></div><ul\
+    \ style=\"padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position:\
+    \ initial; list-style-image: initial; color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">Qu\xE9 es la optimizaci\xF3n en motores\
+    \ de b\xFAsqueda;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">C\xF3mo los buscadores examinan tu sitio\
+    \ web;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none;\
+    \ text-align: justify;\">Qu\xE9 es lo que m\xE1s valoran.</li></ul><center style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243);\"><iframe allowfullscreen=\"\
+    \" frameborder=\"0\" gesture=\"media\" height=\"315\" src=\"https://www.youtube.com/embed/yVx0_FijxvM\"\
+    \ width=\"560\"></iframe></center><p><br style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"></p><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Cada d\xEDa millones de personas\
+    \ buscan de todo en Internet, desde billetes de avi\xF3n hasta zapatos. Eso significa\
+    \ que las empresas tienen millones de oportunidades para presentarse ante clientes\
+    \ potenciales.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Supongamos\
+    \ que tienes una peque\xF1a granja y que quieres ampliar el negocio vendiendo\
+    \ tus productos en Internet, el SEO ayudar\xE1 a los buscadores a entender mejor\
+    \ tu oferta. De esa forma, si alguien realiza una b\xFAsqueda con una palabra\
+    \ o frase relacionada con tu negocio, como por ejemplo \"tomates ecol\xF3gicos\"\
+    , tendr\xE1s m\xE1s posibilidades de aparecer en sus resultados.</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    >Algunos de los resultados que muestra un buscador son anuncios de pago, mientras\
+    \ que el resto son resultados gratuitos.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Los buscadores tienen f\xF3rmulas o algoritmos que les ayudan a ordenar\
+    \ la lista de resultados, y recorren Internet sin cesar en busca de nuevos contenidos.&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Que tu sitio web aparezca en estos\
+    \ resultados depende de las palabras que utilizas en tu web (por ejemplo, \"productos\
+    \ agr\xEDcolas frescos\"), as\xED como de otros factores, como cu\xE1ntos sitios\
+    \ web incluyen enlaces al tuyo.&nbsp;</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\">\xBFC\xF3mo funciona?</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Para presentarte los mejores resultados\
+    \ posibles, los motores buscan toda la informaci\xF3n que pueden sobre los sitios\
+    \ web.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Pueden analizar la popularidad de\
+    \ los sitios o qu\xE9 dicen otros usuarios o sitios web sobre ellos,&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">o tambi\xE9n pueden tener palabras clave en los textos de la p\xE1\
+    gina que ayuden a entender mejor el tema.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Cada uno de estos componentes ayudar\xE1 a los buscadores a encontrar\
+    \ el mejor resultado para tu b\xFAsqueda.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Los buscadores\
+    \ tambi\xE9n pueden considerar la ubicaci\xF3n geogr\xE1fica de la persona que\
+    \ realiza la b\xFAsqueda. Una b\xFAsqueda desde Per\xFA mostrar\xE1 un conjunto\
+    \ localizado de resultados de b\xFAsqueda,&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">mientras que, es probable, la misma b\xFAsqueda realizada desde Uruguay\
+    \ devolver\xE1 resultados diferentes.</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Y con el auge de los m\xF3viles, los buscadores ahora tienen en cuenta\
+    \ los dispositivos que utilizan los usuarios cuando realizan una b\xFAsqueda.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">En resum\xE9n, para promocionar tu\
+    \ sitio web en Internet de forma eficaz, debes estar familiarizado con lo que\
+    \ los buscadores valoran m\xE1s y asegurarte de que tu web se lo proporcione.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">A medida que avancemos, te ofreceremos\
+    \ m\xE1s informaci\xF3n sobre el funcionamiento de los buscadores y te ayudaremos\
+    \ a crear una estrategia para mejorar el SEO con el fin de alcanzar tus objetivos\
+    \ comerciales.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Revisa tus conocimientos&nbsp;</b></div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Enrique quiere ampliar su negocio vendiendo fruta y verdura\
+    \ online. Su sitio web existe desde hace tiempo, pero no consigue muchas visitas\
+    \ ni pedidos online.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Enrique sabe\
+    \ que puede mejorar sus resultados en motores de b\xFAsqueda con la publicidad\
+    \ en buscadores o una estrategia de SEO.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Observa las zonas de la pantalla de resultados de b\xFAsqueda. \xBF\
+    D\xF3nde aparecer\xE1 su sitio web si usa solo SEO para mejorar los resultados?</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><div class=\"separator\" style=\"\
+    clear: both; text-align: center;\"><a href=\"https://3.bp.blogspot.com/-QmnrYTgeMy8/WhYKl6aY8yI/AAAAAAAAgWw/l3s3RJQDPLMHqPfrzuukgiU3Eo5sgSEJwCLcBGAs/s1600/Introducci%25C3%25B3n-a-la-optimizacion-para-buscadores-seo.JPG\"\
+    \ imageanchor=\"1\" style=\"color: rgb(0, 0, 204); margin-left: 1em; margin-right:\
+    \ 1em;\"><img border=\"0\" data-original-height=\"236\" data-original-width=\"\
+    555\" src=\"https://3.bp.blogspot.com/-QmnrYTgeMy8/WhYKl6aY8yI/AAAAAAAAgWw/l3s3RJQDPLMHqPfrzuukgiU3Eo5sgSEJwCLcBGAs/s1600/Introducci%25C3%25B3n-a-la-optimizacion-para-buscadores-seo.JPG\"\
+    \ style=\"border-width: 1px; border-style: solid; border-color: transparent; position:\
+    \ relative; padding: 8px; background: transparent; box-shadow: rgba(0, 0, 0, 0.2)\
+    \ 0px 0px 0px; border-radius: 0px;\"></a></div><div style=\"text-align: center;\"\
+    ><br></div></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Cuando un motor de b\xFAsqueda devuelve resultados,\
+    \ algunos son anuncios pagos. Estos suelen aparecer en la parte superior y en\
+    \ un lateral de la p\xE1gina.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">La lista\
+    \ principal, que empieza debajo de los anuncios pagos, muestra los resultados\
+    \ que no son pagos y que los motores de b\xFAsqueda consideran relevantes para\
+    \ la frase de b\xFAsqueda. Estos resultados se denominan \"resultados org\xE1\
+    nicos\" y es donde aparecer\xE1 el sitio web de Enrique cuando no utilice la publicidad\
+    \ en buscadores.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Tarea</b></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Haz una b\xFA\
+    squeda de una palabra o una frase en varios buscadores e identifica los resultados\
+    \ de pago y los org\xE1nicos. Echa un vistazo a los resultados org\xE1nicos que\
+    \ encabezan la clasificaci\xF3n: \xBFpor qu\xE9 crees que aparecen esas p\xE1\
+    ginas web por encima de las dem\xE1s?</div><div><br></div>"
+  id: page31
+  title: "Introducci\xF3n a la optimizaci\xF3n para buscadores (SEO)"
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><b>Aspectos clave</b></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">En este proceso paso a paso para crear una estrategia de SEO para\
+    \ tu sitio web, aprender\xE1s a:&nbsp;</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"></div><ul style=\"\
+    padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position:\
+    \ initial; list-style-image: initial; color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em;\
+    \ border: none; text-align: justify;\">Desarrollar;</li><li style=\"padding: 0.25em\
+    \ 0px; margin: 0px 0px 0.25em; border: none; text-align: justify;\">Priorizar;</li><li\
+    \ style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align:\
+    \ justify;\">Y adaptar la estrategia a tus objetivos de la mejor manera posible.</li></ul><center\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"><iframe\
+    \ allowfullscreen=\"\" frameborder=\"0\" gesture=\"media\" height=\"315\" src=\"\
+    https://www.youtube.com/embed/X_EuG0OxVxI\" width=\"560\"></iframe></center><p><br\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"></p><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Una vez que entiendas bien en qu\xE9 consiste la optimizaci\xF3n\
+    \ en buscadores ( SEO ), estar\xE1s listo para crear un plan de SEO .&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Imaginemos que quieres atraer a nuevos\
+    \ clientes para tu servicio online de env\xEDo de frutas y verduras frescas cultivadas\
+    \ en tu granja.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Tu primer paso deber\xEDa ser un\
+    \ an\xE1lisis de palabras clave, es decir, averiguar qu\xE9 buscan tus clientes\
+    \ potenciales.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">\xBFBuscan\
+    \ productos ecol\xF3gicos?, \xBFenv\xEDos semanales de verduras frescas?&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Por cierto, si deseas profundizar\
+    \ en el an\xE1lisis de palabras clave, echa un vistazo a nuestra lecci\xF3n que\
+    \ habla sobre este tema.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">A continuaci\xF3\
+    n, piensa en temas relacionados, por ejemplo: \xBFSon populares las dietas vegetarianas?,\
+    \ \xBFte llegan solicitudes de recetas para hacer gazpacho?&nbsp;</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Eso te ayudar\xE1 a encontrar palabras clave m\xE1s espec\xED\
+    ficas y acordes a lo que buscan los clientes. Deber\xEDas hacer esto al menos\
+    \ una vez al a\xF1o como parte de tu plan de SEO ,&nbsp;</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    >y una vez que hayas identificado palabras clave eficaces, f\xEDjate en su repercusi\xF3\
+    n sobre los resultados de b\xFAsqueda.&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">\xBFCu\xE1ntas de estas palabras y frases hacen que tu sitio web\
+    \ se muestre en un buscador? \xBFHay temas espec\xEDficos que no atraen mucho\
+    \ tr\xE1fico a tu sitio web?</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Esta informaci\xF3\
+    n te ayudar\xE1 a determinar qu\xE9 palabras clave funcionan y cu\xE1les no. Si\
+    \ una frase popular como \"verduras frescas\" no est\xE1 llevando a muchos clientes\
+    \ a tu sitio web, puedes hacer cambios en tu plan de SEO .</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    >En cuanto hayas identificado los problemas relativos a tus resultados de SEO\
+    \ , el siguiente paso ser\xE1 pensar qu\xE9 puedes hacer para solucionarlos.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">\xBFNadie incluye enlaces a tu sitio?\
+    \ Si es as\xED, quiz\xE1s puedas invitar a bloggueros especializados en alimentos\
+    \ para que visiten tu granja con la esperanza de que la mencionen en pr\xF3ximos\
+    \ art\xEDculos. Haz una lista de todo lo que crees que puede mejorar tus resultados.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Bien, ahora tienes una larga lista de tareas, pero no te preocupes.\
+    \ El primer paso es establecer prioridades.&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Lo siguiente\
+    \ es fijar una fecha l\xEDmite para cada tarea con el fin de trabajar de forma\
+    \ continuada en tu plan de SEO durante todo el a\xF1o.</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    >Una vez que hayas puesto el plan en marcha, no te olvides de \xE9l.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Tu plan de SEO cambiar\xE1 con el\
+    \ paso del tiempo, pero, \xBFc\xF3mo sabr\xE1s cu\xE1ndo debes actualizarlo? Una\
+    \ forma f\xE1cil de saberlo es revisarlo cuando realices otros cambios en tu negocio,\
+    \ c\xF3mo introducir un nuevo producto o cambiar el dise\xF1o del sitio web.&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Asimismo, recuerda que los buscadores\
+    \ incorporan nuevas funcionalidades y mejoran sus algoritmos. Por ejemplo, muchos\
+    \ buscadores han realizado ajustes porque ahora hay muchos usuarios que realizan\
+    \ b\xFAsquedas en dispositivos m\xF3viles.&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Por \xFAltimo, ajusta el plan cuando algo no funcione. \xBFHay una\
+    \ p\xE1gina web que no genera mucho tr\xE1fico org\xE1nico? Pues quiz\xE1s debas\
+    \ actualizarla.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">\xBFAtraes\
+    \ visitas a tu sitio pero no compran nada? Entonces puede que necesites llamados\
+    \ a la acci\xF3n de mayor impacto.&nbsp;</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Revisa tus resultados con regularidad y c\xE9ntrate en las \xE1reas\
+    \ que requieren atenci\xF3n.&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">As\xED es c\xF3mo se crea un plan\
+    \ de SEO .&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Recapitulemos.\
+    \ Empieza con un an\xE1lisis de palabras clave para entender qu\xE9 buscan tus\
+    \ clientes. Piensa en soluciones que mejoren tus puntos d\xE9biles..</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Y nunca tengas miedo de rehacer tu\
+    \ plan de SEO conforme a los cambios que se producen en el mundo real y en el\
+    \ de los buscadores.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">No olvides\
+    \ consultar nuestra lecci\xF3n sobre el proceso de SEO , ya que incluye m\xE1\
+    s informaci\xF3n \xFAtil para poner tu plan en marcha.</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><b>- Revisa tus conocimientos</b></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Enrique quiere usar la optimizaci\xF3\
+    n en buscadores (SEO) para mejorar sus resultados en los motores de b\xFAsqueda.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Ha escrito los pasos que seguir\xE1\
+    \ para llevar a cabo su plan pero est\xE1n desordenados. \xBFPuedes ordenarlos?</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><span style=\"color: red;\"><br></span></div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><span style=\"color: red;\">1. Buscar palabras clave</span></div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><span style=\"color: red;\">2. Ver en qu\xE9 posici\xF3n aparece mi sitio al\
+    \ buscar palabras clave espec\xEDficas</span></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><span style=\"\
+    color: red;\">3. Buscar los puntos d\xE9biles del rendimiento de SEO</span></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><span style=\"color: red;\">4. Optimizar el plan en base a los resultados\
+    \ obtenidos</span></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Para crear\
+    \ un plan de SEO, hay que seguir seis pasos.&nbsp;</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">En primer lugar, Enrique deber\xEDa saber qu\xE9 palabras clave utilizan\
+    \ los usuarios y considerar temas relacionados. De esta forma sabr\xE1 qu\xE9\
+    \ est\xE1n buscando las personas.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">A continuaci\xF3\
+    n, deber\xEDa comprobar en qu\xE9 posici\xF3n aparece su sitio en los resultados\
+    \ que se muestran al buscar dichas palabras clave. Si hay palabras clave que no\
+    \ atraen tr\xE1fico al sitio web, deber\xEDa encontrar la manera de solucionar\
+    \ este problema y mejorar el rendimiento del SEO.</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><b>- Tarea</b></div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Empieza creando una estrategia de SEO, intentando aumentar\
+    \ el rendimiento en las b\xFAsquedas org\xE1nicas para dar una mayor visibilidad\
+    \ a tus productos o servicios. \xBFQu\xE9 palabras clave parecen relevantes pero\
+    \ no est\xE1n atrayendo muchas visitas? \xBFC\xF3mo podr\xEDas arreglarlo?</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Compartamos\
+    \ el conocimiento. Hasta la pr\xF3xima oportunidad!</div>"
+  id: page32
+  title: La importancia de contar con una estrategia de SEO
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><b>Aspectos clave</b></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">En este video se explican el proceso de SEO y los siguientes pasos\
+    \ que debes seguir para optimizar tu sitio web:</div><ul style=\"padding: 0px\
+    \ 2.5em; margin: 0.5em 0px; line-height: 1.4; list-style-position: initial; list-style-image:\
+    \ initial; color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"><li style=\"\
+    padding: 0.25em 0px; margin: 0px 0px 0.25em; border: none; text-align: justify;\"\
+    >Descubrir qu\xE9 palabras o frases utilizan los usuarios para buscar tus productos\
+    \ o servicios;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border:\
+    \ none; text-align: justify;\">Y mejorar el contenido de tu sitio web.</li></ul><center\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"><iframe\
+    \ allowfullscreen=\"\" frameborder=\"0\" gesture=\"media\" height=\"315\" src=\"\
+    https://www.youtube.com/embed/XOvytWc8LUQ\" width=\"560\"></iframe></center><p><br\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"></p><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">En este video te explicaremos por qu\xE9 la optimizaci\xF3n en buscadores\
+    \ es un proceso continuo y qu\xE9 pasos deber\xE1s seguir para alcanzar tus objetivos.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">En la optimizaci\xF3n en buscadores\
+    \ o SEO , no hay una f\xF3rmula instant\xE1nea para conseguir que tu sitio web\
+    \ sea m\xE1s visible para personas que buscan productos o servicios como el tuyo.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">El primer paso se denomina \"an\xE1\
+    lisis de palabras clave\"..</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Imaginemos\
+    \ que tienes una peque\xF1a granja que ha iniciado un servicio de env\xEDo de\
+    \ frutas y verduras frescas. Una vez que sepas qu\xE9 buscan los usuarios (quiz\xE1\
+    s recetas vegetarianas o productos sostenibles), podr\xE1s optimizar tu contenido\
+    \ y oferta para que se ajusten mejor a lo que buscan.</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Por ejemplo, podr\xEDas publicar una receta semanal o\
+    \ escribir un blog sobre la vida en la granja.</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">El trabajo de SEO nunca termina, porque las tendencias cambian constantemente,\
+    \ los usuarios muestran comportamientos diferentes y los buscadores evolucionan\
+    \ con el tiempo.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Aqu\xED tienes cuatro consejos r\xE1\
+    pidos que te ayudar\xE1n a estar al d\xEDa sobre las tendencias de b\xFAsqueda:</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">- Familiar\xEDzate con el funcionamiento de los buscadores.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Muchos buscadores disponen de blogs\
+    \ donde ofrecen informaci\xF3n actualizada sobre nuevas funcionalidades, cambios\
+    \ en algoritmos y sugerencias sobre c\xF3mo optimizar a\xFAn m\xE1s tu sitio web.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">- Estate atento a los cambios y controla c\xF3mo repercuten en tu\
+    \ sitio web.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Por ejemplo,\
+    \ imag\xEDnate que lees que los principales buscadores han realizado un cambio\
+    \ que mejora la experiencia de los usuarios en los resultados de b\xFAsqueda de\
+    \ los dispositivos m\xF3viles. Si tu web no est\xE1 optimizada para los dispositivos\
+    \ m\xF3viles, deber\xEDas hacerlo para mejorar su compatibilidad con este tipo\
+    \ de dispositivos.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">- Insp\xED\
+    rate en otros sitios web.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">\xBFOfrecen\
+    \ env\xEDo gratuito?, \xBFson activos en las redes sociales? Adopta las pr\xE1\
+    cticas que sean v\xE1lidas para tu negocio.</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Y por \xFA\
+    ltimo, 4.- Habla con los clientes. Son quienes mejor pueden orientarte sobre el\
+    \ contenido que falta en tu web. Incluso la forma en la que los clientes describen\
+    \ tus productos puede considerarse un tipo de an\xE1lisis de palabras clave, ya\
+    \ que con toda probabilidad utilizar\xE1n esos mismos t\xE9rminos en sus b\xFA\
+    squedas.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Ah\xED lo tienes: el proceso continuo del\
+    \ SEO . Se trata b\xE1sicamente de entender qu\xE9 quieren las visitas, generar\
+    \ y compartir el contenido que buscan y estar dispuesto a cambiar de t\xE1ctica\
+    \ cuando sea necesario.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><p><br style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243);\"></p><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><b>Revisa\
+    \ tus conocimientos</b></div><p><br style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"></p><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Enrique vende fruta y verdura online\
+    \ y utiliza una estrategia de SEO para mejorar su posicionamiento en los resultados\
+    \ en los motores de b\xFAsqueda. Ha averiguado qu\xE9 buscan los usuarios para\
+    \ llegar hasta su sitio web y ha creado contenido adaptado a esas b\xFAsquedas.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Pero la estrategia de SEO de Enrique no acaba aqu\xED. Ha hablado\
+    \ con unos amigos, que le han dado algunos consejos para garantizar la continuidad\
+    \ de dicha estrategia.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">\xBFCu\xE1l de estos consejos no\
+    \ deber\xEDa seguir?</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><span style=\"\
+    color: red;\">**Contrata una agencia que ofrezca primeras posiciones en b\xFA\
+    squedas org\xE1nicas</span></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><span style=\"color: red;\">**No\
+    \ cambies las palabras clave porque eso confunde a los motores de b\xFAsqueda</span></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Mantente informado de los cambios que experimentan los motores de\
+    \ b\xFAsqueda</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">B\xE1sate en las tendencias del sector para\
+    \ crear el contenido de tu p\xE1gina</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\">Pregunta a tus\
+    \ clientes qu\xE9 le falta a tu sitio web</div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">El trabajo con SEO nunca acaba. Los motores de b\xFAsqueda evolucionan,\
+    \ igual que las tendencias.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Por lo tanto, deber\xEDas ir mejorando\
+    \ las palabras clave y no dar por sentado que lo que funciona hoy, seguir\xE1\
+    \ funcionando ma\xF1ana. Mantente al d\xEDa de los motores de b\xFAsqueda, de\
+    \ c\xF3mo funcionan y de c\xF3mo evolucionan.</div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Insp\xED\
+    rate en otros sitios web y no te olvides de pedir opini\xF3n a tus clientes.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Recuerda que ninguna agencia puede garantizar las primeras posiciones\
+    \ en los resultados de b\xFAsqueda org\xE1nica. Si te lo ofrecen, probablemente\
+    \ sea un enga\xF1o.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Tarea</b></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Muchos buscadores\
+    \ utilizan blogs para publicar informaci\xF3n sobre los cambios importantes que\
+    \ han llevado a cabo recientemente. T\xF3mate tu tiempo para conocer los cambios\
+    \ que puedan afectar a la optimizaci\xF3n de tu sitio web. \xBFHay alg\xFAn cambio\
+    \ que pueda afectarte y sobre el que debas estar al corriente?</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Compartamos el conocimiento. Hasta\
+    \ la pr\xF3xima oportunidad!</div>"
+  id: page33
+  title: El proceso de SEO
+  type: Page
+- content: "<div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><b>spectos clave</b></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Establecer objetivos realistas en cuanto al tr\xE1fico org\xE1nico\
+    \ y evaluar lo que realmente importa con las herramientas de anal\xEDtica web\
+    \ ayudar\xE1 a fortalecer tu estrategia de SEO. En este video aprender\xE1s:</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"></div><ul style=\"padding: 0px 2.5em; margin: 0.5em 0px; line-height:\
+    \ 1.4; list-style-position: initial; list-style-image: initial; color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243);\"><li style=\"padding: 0.25em 0px;\
+    \ margin: 0px 0px 0.25em; border: none; text-align: justify;\">C\xF3mo definir\
+    \ el \xE9xito;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border:\
+    \ none; text-align: justify;\">C\xF3mo obtener los datos anal\xEDticos que m\xE1\
+    s te importan;</li><li style=\"padding: 0.25em 0px; margin: 0px 0px 0.25em; border:\
+    \ none; text-align: justify;\">Qu\xE9 herramientas pueden ayudarte.</li></ul><center\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\"><iframe\
+    \ allow=\"encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" gesture=\"\
+    media\" height=\"315\" src=\"https://www.youtube.com/embed/2slfi9K9E7M\" width=\"\
+    560\"></iframe></center><p><br style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243);\"></p><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">En este video, hablaremos sobre c\xF3\
+    mo optimizar las p\xE1ginas de tu sitio web, para que los buscadores puedan encontrarte\
+    \ m\xE1s f\xE1cilmente.</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">La optimizaci\xF3n \"on page\", o\
+    \ en la p\xE1gina, consiste en los cambios que se pueden realizar en cada una\
+    \ de las p\xE1ginas del sitio web y que pueden ayudar r\xE1pidamente a los buscadores\
+    \ a entender mejor de qu\xE9 trata tu contenido.&nbsp;</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    >Supongamos que tienes una peque\xF1a granja denominada \"Hortalizas Santiago\"\
+    \ y que te gustar\xEDa optimizar una p\xE1gina sobre tu selecci\xF3n de frutas\
+    \ y verduras.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10, 10,\
+    \ 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Existen varios\
+    \ elementos en tu p\xE1gina que pueden indicar al buscador que la p\xE1gina trata\
+    \ sobre frutas y verduras frescas, como las meta etiquetas o meta descripci\xF3\
+    n y el t\xEDtulo, los encabezados y el texto de la p\xE1gina en s\xED.&nbsp;</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Empecemos por las metaetiquetas o la meta descripci\xF3n y el t\xED\
+    tulo. Estos elementos no son visibles en una p\xE1gina web a menos que eches un\
+    \ vistazo al c\xF3digo, sino que son mensajes incrustados que ayudan al buscador\
+    \ a determinar qu\xE9 contiene la p\xE1gina. y as\xED generar el resultado de\
+    \ b\xFAsqueda de una p\xE1gina determinada. El t\xEDtulo se utiliza para generar\
+    \ la primera l\xEDnea que se muestra y la meta descripci\xF3n para las frases\
+    \ cortas que van despu\xE9s de este.</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Para una p\xE1gina sobre frutas y verduras, es conveniente asegurarse\
+    \ de que la frase \"frutas y verduras\" aparezca tanto en el t\xEDtulo como en\
+    \ la meta descripci\xF3n. Un buen t\xEDtulo ser\xEDa: \"Hortalizas Santiago: frutas\
+    \ y verduras frescas\".&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Una buena\
+    \ meta descripci\xF3n suele estar compuesta por dos frases cortas, y \xE9sta tambi\xE9\
+    n deber\xEDa reforzar el t\xEDtulo repitiendo la frase o palabra clave. Una buena\
+    \ descripci\xF3n ser\xEDa: \"Hortalizas Santiago env\xEDa frutas y verduras frescas\
+    \ ecol\xF3gicas a su casa siempre que las necesite. Pida su caja personalizada\
+    \ online\".</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Tambi\xE9n podr\xEDas tener en cuenta qu\xE9\
+    \ hay en la p\xE1gina: qu\xE9 es lo que en realidad ven las visitas, no solo los\
+    \ buscadores. los encabezados y el texto de la p\xE1gina.</div><div style=\"color:\
+    \ rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Al igual que las metaetiquetas, los encabezados est\xE1\
+    n incrustados en el c\xF3digo HTML de la p\xE1gina, pero a diferencia de ellas,\
+    \ son visibles para los usuarios, y suelen aparecer en la parte superior de la\
+    \ p\xE1gina. Un buen encabezado ser\xEDa \"frutas y verduras frescas\", ya que\
+    \ indica claramente de qu\xE9 trata la p\xE1gina, tanto a los visitantes como\
+    \ a los buscadores.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Por \xFA\
+    ltimo, si tienes previsto escribir contenido sobre frutas y verduras frescas,\
+    \ naturalmente te interesar\xE1 utilizar esa frase en el texto de la p\xE1gina.\
+    \ No repitas la frase hasta la saciedad, porque los buscadores pueden considerarlo\
+    \ spam,&nbsp;</div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Ahora recapitulemos sobre lo que has hecho\
+    \ para optimizar las p\xE1ginas web de tu granja. Has examinado cada uno de los\
+    \ elementos principales utilizados por los buscadores y, en cada caso, les has\
+    \ indicado que la p\xE1gina trata de frutas y verduras.&nbsp;</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\">Independientemente de lo que busquen los buscadores,\
+    \ ver\xE1n informaci\xF3n clara y coherente sobre el contenido de la p\xE1gina,\
+    \ y eso puede ayudar a mejorar tu ranking en b\xFAsquedas.</div><div style=\"\
+    color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif;\
+    \ font-size: 16px; background-color: rgb(243, 243, 243); text-align: justify;\"\
+    ><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica,\
+    \ FreeSans, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);\
+    \ text-align: justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><b>- Revisa tus conocimientos&nbsp;</b></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">Enrique lleva alg\xFAn tiempo vendiendo\
+    \ frutas y hortalizas por Internet.</div><div style=\"color: rgb(10, 10, 10);\
+    \ font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px;\
+    \ background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\">Ha elegido las palabras clave que cree que dirigir\xE1n a los usuarios\
+    \ m\xE1s interesados a su sitio web. Ahora debe controlar la evoluci\xF3n de los\
+    \ resultados de esos t\xE9rminos mediante herramientas de anal\xEDtica.</div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><br></div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\">\xBFQu\xE9 informaci\xF3n obtendr\xE1\
+    \ de estas herramientas?</div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><div class=\"\
+    separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-q9u8dSdUp8A/Wh10y6oIG7I/AAAAAAAAgZU/3-KEieBePNcrGIMp2TFKKjDqEILOWDjOwCLcBGAs/s1600/Eleccion-de-objetivos-de-seo-realistas.JPG\"\
+    \ imageanchor=\"1\" style=\"color: rgb(0, 0, 204); margin-left: 1em; margin-right:\
+    \ 1em;\"><img border=\"0\" data-original-height=\"490\" data-original-width=\"\
+    470\" src=\"https://1.bp.blogspot.com/-q9u8dSdUp8A/Wh10y6oIG7I/AAAAAAAAgZU/3-KEieBePNcrGIMp2TFKKjDqEILOWDjOwCLcBGAs/s1600/Eleccion-de-objetivos-de-seo-realistas.JPG\"\
+    \ style=\"border-width: 1px; border-style: solid; border-color: transparent; position:\
+    \ relative; padding: 8px; background: transparent; box-shadow: rgba(0, 0, 0, 0.2)\
+    \ 0px 0px 0px; border-radius: 0px;\"></a></div><div style=\"text-align: center;\"\
+    ><br></div></div><div style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma,\
+    \ Helvetica, FreeSans, sans-serif; font-size: 16px; background-color: rgb(243,\
+    \ 243, 243); text-align: justify;\">Las herramientas de anal\xEDtica son muy \xFA\
+    tiles para conocer el rendimiento del contenido, saber qui\xE9n visita el sitio\
+    \ web para luego convertirse en cliente y con qu\xE9 contenido interact\xFAan\
+    \ los usuarios.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Con este\
+    \ recurso, Enrique obtendr\xE1 la mayor parte de la informaci\xF3n, si bien no\
+    \ sabr\xE1 si a los clientes les gustan la fruta y las hortalizas que compran\
+    \ en su tienda.</div><div style=\"color: rgb(10, 10, 10); font-family: Arial,\
+    \ Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\"><br></div><div\
+    \ style=\"color: rgb(10, 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans,\
+    \ sans-serif; font-size: 16px; background-color: rgb(243, 243, 243); text-align:\
+    \ justify;\"><b>- Tarea</b></div><div style=\"color: rgb(10, 10, 10); font-family:\
+    \ Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 16px; background-color:\
+    \ rgb(243, 243, 243); text-align: justify;\"><br></div><div style=\"color: rgb(10,\
+    \ 10, 10); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size:\
+    \ 16px; background-color: rgb(243, 243, 243); text-align: justify;\">Haz una lista\
+    \ de los objetivos de tu negocio. \xBFQuieres aumentar los ingresos? \xBFAmpliar\
+    \ tu cartera de clientes? Ahora haz una lista de las cosas que quieres que los\
+    \ visitantes hagan en tu sitio web para contribuir a alcanzar tus objetivos. Por\
+    \ ejemplo, tener m\xE1s visitantes que realicen pedidos de fruta y verdura fresca\
+    \ contribuye a lograr tus objetivos de ingresos.</div><div><br></div>"
+  id: page34
+  title: "Elecci\xF3n de objetivos de SEO realistas"
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: "C\xF3mo funciona el retargeting"
