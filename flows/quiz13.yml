@@ -1,0 +1,113 @@
+completion_text: |-
+  <p>Muchas gracias por completar el Quiz</p>
+description: |-
+  Las redes publicitarias , conectan grandes grupos de sitios web que ofrecen espacios publicitarios con usuarios que quieren anunciarse en ellos.
+groups:
+- id: intro
+  pages:
+  - content: "<p style=\"margin-bottom: 20px; color: rgb(108, 108, 108); font-size:\
+      \ 16px;\">Puedes prepararte el examen repasando la&nbsp;<a href=\"https://support.google.com/partners/answer/6287611\"\
+      \ target=\"_blank\" rel=\"noopener\" style=\"color: rgb(227, 116, 0); outline:\
+      \ 0px;\">Gu\xEDa de estudio de publicidad de display</a>, con la que aprender\xE1\
+      s:</p><ul style=\"padding: 0px; margin-right: 0px; margin-left: 25px; color:\
+      \ rgb(108, 108, 108); font-size: 16px;\"><li style=\"line-height: 20px;\">C\xF3\
+      mo los anuncios en la Red de Display pueden ayudarte a&nbsp;<strong>cumplir\
+      \ con tus objetivos de rendimiento y marca</strong></li><li style=\"line-height:\
+      \ 20px;\">Crear y administrar&nbsp;<strong>campa\xF1as de display</strong></li><li\
+      \ style=\"line-height: 20px;\">Cu\xE1les son los&nbsp;<strong>formatos de anuncios\
+      \ de display</strong></li><li style=\"line-height: 20px;\">C\xF3mo llegar a\
+      \ distintos grupos de&nbsp;<strong>usuarios</strong>&nbsp;gracias a la&nbsp;<strong>segmentaci\xF3\
+      n especializada</strong></li><li style=\"line-height: 20px;\"><strong>Medir\
+      \ el rendimiento de tus anuncios</strong>&nbsp;y optimizar tus campa\xF1as</li></ul> "
+    id: welcome
+    title: "\xBFEn qu\xE9 consisten las redes publicitarias?"
+    type: Page
+- id: quiz_start
+  pages:
+  - choices:
+    - "El anuncio segmentado por palabras clave ser\xE1 el \xFAnico que aparezca en\
+      \ el bloque de anuncios."
+    - "El anuncio segmentado por palabras clave aparecer\xE1 encima del anuncio segmentado\
+      \ por emplazamiento."
+    - "~CORRECT~ El anuncio segmentado por emplazamiento ser\xE1 el \xFAnico que aparezca\
+      \ en el bloque de anuncios."
+    - "El anuncio segmentado por emplazamiento aparecer\xE1 encima del anuncio segmentado\
+      \ por palabras clave."
+    id: quizquestion18
+    prompt: ''
+    title: "Al competir por el mismo bloque de anuncios, si el ranking de un anuncio\
+      \ de coste por cada mil impresiones (CPM) segmentado por emplazamiento es m\xE1\
+      s alto que el ranking combinado de todos los anuncios de segmentaci\xF3n por\
+      \ palabras clave, entonces:"
+    type: ChoiceQuestion
+    value: 20.0
+  - choices:
+    - "Coste por conversi\xF3n"
+    - ~CORRECT~ Clics e impresiones
+    - ~CORRECT~ Cobertura y frecuencia
+    - Porcentaje de conversiones
+    credit_mode: exact
+    id: quizquestion19
+    prompt: ''
+    shuffle: false
+    title: "Para un anunciante centrado en el branding, \xBFcu\xE1les son las m\xE9\
+      tricas clave de un buen rendimiento?"
+    type: MultipleChoiceQuestion
+    value: 20.0
+  - choices:
+    - "A\xF1aden el testimonio de un cliente."
+    - "~CORRECT~ A\xF1aden informaci\xF3n adicional, como una ubicaci\xF3n o un n\xFA\
+      mero de tel\xE9fono."
+    - "Muestran el anuncio en la mitad inferior de la p\xE1gina."
+    - "Ampl\xEDan la longitud del emplazamiento del anuncio."
+    id: quizquestion20
+    prompt: ''
+    title: "\xBFC\xF3mo funcionan las extensiones en los anuncios de display?"
+    type: ChoiceQuestion
+    value: 20.0
+  - choices:
+    - "Las cuentas que utilizan euros como moneda de facturaci\xF3n"
+    - "Las campa\xF1as orientadas a sitios web de partners de b\xFAsqueda"
+    - "~CORRECT~ Las campa\xF1as orientadas a la Red de Display"
+    - "Las cuentas que utilizan la facturaci\xF3n mediante prepago"
+    id: quizquestion21
+    prompt: ''
+    title: "Las pujas de coste por cada mil impresiones (CPM) solo est\xE1n disponibles\
+      \ en:"
+    type: ChoiceQuestion
+    value: 20.0
+  - choices:
+    - "En la Red de B\xFAsqueda y en la Red de Display"
+    - "~CORRECT~ Solo en la Red de B\xFAsqueda"
+    - ~CORRECT~ Solo en la Red de Display
+    - "En la Red de B\xFAsqueda y en YouTube"
+    id: quizquestion22
+    prompt: ''
+    title: "\xBFD\xF3nde puedes colocar anuncios de imagen y de v\xEDdeo de un cliente?"
+    type: ChoiceQuestion
+    value: 20.0
+  shuffle: false
+rules:
+  access:
+  - permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz13
+  grading:
+  - credit_percent: 100
+  start:
+  - if_before: 2020-12-30 22:10:23+00:00
+    if_has_fewer_sessions_than: 1
+    if_has_role:
+    - student
+    - ta
+    - instructor
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - may_list_existing_sessions: true
+    may_start_new_session: false
+title: "\xBFEn qu\xE9 consisten las redes publicitarias?"
