@@ -41,25 +41,7 @@ chunks:
     title: "C\xF3mo funciona el retargeting"
     title_next_flow: ''
   id: welcome
-  introduction: "<p><span style=\"color: rgb(51, 51, 51); font-family: OpenSans, Helvetica,\
-    \ Arial, sans-serif; font-size: 16px;\">El curso brinda conocimientos acerca de\
-    \ las estrategias de promoci\xF3n de productos y/o servicios, el uso de plataformas\
-    \ y otros medios virtuales. Aprender\xE1n a utilizar las herramientas digitales\
-    \ como medio de promoci\xF3n de su propia actividad profesional, de terceros y/o\
-    \ de una organizaci\xF3n en particular. Los recursos que se utilizan para realizar\
-    \ esta actividad son los buscadores (Google, Yahoo), las plataformas de desarrollo,\
-    \ las redes sociales (Facebook, Instagram, Twitter, Linkedin) y otras herramientas\
-    \ multimedia.</span></p><p><span style=\"color: rgb(51, 51, 51); font-family:\
-    \ OpenSans, Helvetica, Arial, sans-serif; font-size: 16px;\"><br></span></p><p\
-    \ style=\"margin-bottom: 24px; padding: 0px; font-size: 16px; line-height: 24px;\
-    \ color: rgb(51, 51, 51); font-family: OpenSans, Helvetica, Arial, sans-serif;\"\
-    ><span style=\"font-family: OpenSansBold, Helvetica, Arial, sans-serif;\">Al finalizar\
-    \ el curso vas a tener herramientas para:</span></p><ul style=\"color: rgb(51,\
-    \ 51, 51); font-family: OpenSans, Helvetica, Arial, sans-serif; font-size: 16px;\"\
-    ><li>Conocer de comercializaci\xF3n, publicidad y comunicaci\xF3n, tanto en la\
-    \ web como en otros dispositivos m\xF3viles.</li><li>Manejar herramientas de comercio\
-    \ electr\xF3nico y multimedia aplicables a redes sociales.</li><li>Analizar, identificar\
-    \ y seleccionar opciones publicitarias y de promoci\xF3n.</li><li>Utilizar herramientas\
-    \ para elaborar y aplicar un plan de mercadotecnia de productos y/o servicios.</li></ul><p><br></p>"
+  introduction: <p><iframe frameborder="0" src="//www.youtube.com/embed/98z3b9AfFWs"
+    width="640" height="360" class="note-video-clip" allowfullscreen=""></iframe></p><p><br></p><p>asdasd</p>
   rules: []
   title: Marketing Digital test
